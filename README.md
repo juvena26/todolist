@@ -1,2 +1,2 @@
 # todolist
-a basic tododlist using react
+A basic tododlist using react
