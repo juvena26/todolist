@@ -1,5 +1,5 @@
 # todolist
-A basic tododlist using react
-clone to remote
-run npm install
-then 'npm run dev' to start application
+A basic tododlist using react.
+Clone to remote.
+Run npm install.
+Then 'npm run dev' to start application.
